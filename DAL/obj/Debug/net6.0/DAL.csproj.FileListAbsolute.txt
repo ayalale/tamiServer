@@ -1,0 +1,34 @@
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\DAL.deps.json
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\DAL.dll
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\DAL.pdb
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.dll
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\refint\DAL.dll
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.pdb
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\ref\DAL.dll
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\Models.dll
+M:\יד\טו טבת\שרת\DAL\bin\Debug\net6.0\Models.pdb
+M:\יד\טו טבת\שרת\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\שרת\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\שרת\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\שרת\DAL\bin\Debug\net6.0\DAL.dll
+D:\שרת\DAL\bin\Debug\net6.0\DAL.pdb
+D:\שרת\DAL\bin\Debug\net6.0\Models.dll
+D:\שרת\DAL\bin\Debug\net6.0\Models.pdb
+D:\שרת\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\שרת\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\שרת\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\שרת\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\שרת\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\שרת\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\שרת\DAL\obj\Debug\net6.0\DAL.dll
+D:\שרת\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\שרת\DAL\obj\Debug\net6.0\DAL.pdb
+D:\שרת\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\שרת\DAL\obj\Debug\net6.0\ref\DAL.dll
